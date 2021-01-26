@@ -1,0 +1,263 @@
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe.config
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.pdb
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csprojResolveAssemblyReference.cache
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.COMPANY.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMER.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMERENTRY.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.ELECTRICINVOICE.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmBackup.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmReport.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GlassPurchase.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GROUP.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Ledger.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Login.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.MAINFORM.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALPURCHASE.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALSALE.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELL.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELLDETAIL.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCOMPANY.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCREATION.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Properties.Resources.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Purchase.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPT.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTDETAIL.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTIT.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SALESINVOICEcs.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SELECTCOMPANY.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SUPPLIER.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.TAX.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.UNIT.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.GenerateResource.Cache
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.exe
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.pdb
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PAYMENT.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.STOCKcs.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.LEDGERAM.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CALLRECORDER.resources
+E:\project\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CallRecorderReport.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe.config
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.exe
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.pdb
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.pdb
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.Shared.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\FlashControlV71.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ShockwaveFlashObjects.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\stdole.dll
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csprojResolveAssemblyReference.cache
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CALLRECORDER.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CallRecorderReport.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.COMPANY.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMER.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMERENTRY.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.ELECTRICINVOICE.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmBackup.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmReport.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GlassPurchase.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GROUP.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Ledger.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.LEDGERAM.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Login.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.MAINFORM.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALPURCHASE.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALSALE.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PAYMENT.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELL.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELLDETAIL.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCOMPANY.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCREATION.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Properties.Resources.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Purchase.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPT.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTDETAIL.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTIT.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SALESINVOICEcs.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SELECTCOMPANY.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.STOCKcs.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SUPPLIER.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.TAX.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.UNIT.resources
+E:\project\plot sell\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe.config
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.pdb
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\stdole.dll
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CALLRECORDER.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CallRecorderReport.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.COMPANY.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMER.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMERENTRY.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.ELECTRICINVOICE.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmBackup.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmReport.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GlassPurchase.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GROUP.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Ledger.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.LEDGERAM.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Login.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.MAINFORM.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALPURCHASE.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALSALE.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PAYMENT.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELL.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELLDETAIL.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCOMPANY.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCREATION.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Purchase.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPT.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTDETAIL.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTIT.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SALESINVOICEcs.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SELECTCOMPANY.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.STOCKcs.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SUPPLIER.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.TAX.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.UNIT.resources
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.exe
+F:\Sem.4\C# Projects\Trials\Real Estate Management\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.pdb
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe.config
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.exe
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.pdb
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.pdb
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\FlashControlV71.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\bin\Debug\stdole.dll
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CALLRECORDER.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CallRecorderReport.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.COMPANY.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMER.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMERENTRY.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.ELECTRICINVOICE.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmBackup.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmReport.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GlassPurchase.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GROUP.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Ledger.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.LEDGERAM.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Login.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.MAINFORM.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALPURCHASE.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALSALE.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PAYMENT.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELL.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELLDETAIL.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCOMPANY.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCREATION.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Properties.Resources.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Purchase.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPT.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTDETAIL.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTIT.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SALESINVOICEcs.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SELECTCOMPANY.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.STOCKcs.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SUPPLIER.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.TAX.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.UNIT.resources
+C:\Users\Janobe\Downloads\Compressed\REAL_ESTATE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\RealEstateManagement_C#\ACCOUNTMANAGEMENT\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.GenerateResource.Cache
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe.config
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.exe
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\ACCOUNTMANAGEMENT.pdb
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\bin\Debug\stdole.dll
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csprojAssemblyReference.cache
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CALLRECORDER.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CallRecorderReport.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.COMPANY.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMER.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.CUSTOMERENTRY.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.ELECTRICINVOICE.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmBackup.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.frmReport.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GlassPurchase.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.GROUP.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Ledger.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.LEDGERAM.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Login.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.MAINFORM.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALPURCHASE.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.OPTICALSALE.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PAYMENT.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELL.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PLOTSELLDETAIL.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCOMPANY.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.PRODUCTCREATION.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Properties.Resources.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.Purchase.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPT.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTDETAIL.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.RECEIPTIT.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SALESINVOICEcs.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SELECTCOMPANY.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.STOCKcs.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.SUPPLIER.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.TAX.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.UNIT.resources
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.GenerateResource.cache
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.CoreCompileInputs.cache
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.csproj.CopyComplete
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.exe
+C:\Users\danfabro\Desktop\DevPractice\accountmanagement\ACCOUNTMANAGEMENT\obj\x86\Debug\ACCOUNTMANAGEMENT.pdb
